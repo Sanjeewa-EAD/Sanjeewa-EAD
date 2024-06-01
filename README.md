@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileep Sanjeewa</h1>
+
 <h3 align="center">A passionate Front-End Web Developer from Sri Lanka</h3>
 
 <p align="center" ><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3djcDd6NnNxOG91bHoyMndtMGc1czJqNW52YmJtNHFjZW9kZDV4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width=400px></p>
