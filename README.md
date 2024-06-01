@@ -92,6 +92,6 @@
 <!--Useful Links:
 GitHub Status & Top Languages Card: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
 Skill Icons: https://github.com/tandpfun/skill-icons?tab=readme-ov-file
-GitHub Read-me Generator: https://gprm.itsvg.in/
+Read-me Generator: https://gprm.itsvg.in/
 Custom Logos: https://shields.io/docs/logos#custom-logos
 -->
