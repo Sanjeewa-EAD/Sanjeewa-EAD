@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dileep Sanjeewa</h1>
+<h1 align="center">Hi 👋, I'm Sanjeewa Edirisinghe</h1>
 
 <h3 align="center">A passionate Front-End Web Developer from Sri Lanka</h3>
 
@@ -18,13 +18,13 @@
 
    🌱 I’m currently learning **MERN**
 
-   👨‍💻 All of my projects are available at **<a target="_blank" href="https://dileepsanjeewa.dev">dileepsanjeewa.dev</a>**
+   👨‍💻 All of my projects are available at **<a target="_blank" href="https://sanjeewa.dev">sanjeewa.dev</a>**
 
    💬 Ask me about **HTML, CSS, JS**
 
-   📫 How to reach me **dileepsanjeewa.dev@gmail.com**
+   📫 How to reach me **sanjeewa.ead@gmail.com**
 
-   ⚡ Fun fact **I think I am funny**
+   ⚡ Fun fact **I love retro gaming and have a collection of classic consoles and games from the '80s and '90s.**
  
    </td>
   </tr>
@@ -84,7 +84,7 @@
     <img height="25" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   
-  <a target="_blank" href="https://linkedin.com/in/dileep-sanjeewa">
+  <a target="_blank" href="https://linkedin.com/in/sanjeewa-edirisinghe">
     <img height="25" alt="Instagram" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
 </p>
