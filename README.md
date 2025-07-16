@@ -18,7 +18,7 @@
 
    🌱 I’m currently learning **Flutter**
 
-   👨‍💻 All of my projects are available at **<a target="_blank" href="https://dileep.dev">dileep.dev</a>**
+   👨‍💻 All of my projects are available at **<a target="_blank" href="https://dileep-edirisinghe.com">dileep-edirisinghe.com</a>**
 
    💬 Ask me about **Java, Flutter**
 
