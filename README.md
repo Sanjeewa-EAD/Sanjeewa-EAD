@@ -14,7 +14,7 @@
   <tr border="none">
     <td width="650" align="left">
 
-   🧑‍🎓 I’m an Undergraduate at **University of Colombo - School of Computing (Sri Lanka)**
+   <!-- 🧑‍🎓 I’m an Undergraduate at **University of Colombo - School of Computing (Sri Lanka)** -->
 
    🌱 I’m currently learning **Flutter**
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <a target="_blank" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,cloudflare,java,mysql,postman,vscode,wordpress&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,cloudflare,java,flutter,mysql,postman,vscode,wordpress&perline=15" />
   </a>
 </p>
 
