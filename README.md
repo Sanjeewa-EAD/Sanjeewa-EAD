@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sanjeewa Edirisinghe</h1>
+<h1 align="center">Hi 👋, I'm Dileep Edirisinghe</h1>
 
-<h3 align="center">A passionate Front-End Web Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Mobile App Developer from Sri Lanka</h3>
 
 <p align="center" ><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3djcDd6NnNxOG91bHoyMndtMGc1czJqNW52YmJtNHFjZW9kZDV4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width=400px></p>
 
@@ -16,11 +16,11 @@
 
    🧑‍🎓 I’m an Undergraduate at **University of Colombo - School of Computing (Sri Lanka)**
 
-   🌱 I’m currently learning **MERN**
+   🌱 I’m currently learning **Flutter**
 
-   👨‍💻 All of my projects are available at **<a target="_blank" href="https://sanjeewa.dev">sanjeewa.dev</a>**
+   👨‍💻 All of my projects are available at **<a target="_blank" href="https://dileep.dev">dileep.dev</a>**
 
-   💬 Ask me about **HTML, CSS, JS**
+   💬 Ask me about **Java, Flutter**
 
    📫 How to reach me **sanjeewa.ead@gmail.com**
 
