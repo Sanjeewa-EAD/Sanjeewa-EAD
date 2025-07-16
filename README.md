@@ -41,11 +41,11 @@
 
 <h3 align="center">📈 My GitHub Stats and Activity</h3>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img height="25" src="https://visitcount.itsvg.in/api?id=Sanjeewa-EAD&icon=4&color=2" />
+  <img src="https://visitcount.itsvg.in/api?id=Sanjeewa-EAD&label=Profile%20Views&color=10&icon=0&pretty=true" />
   </a>
-</div>
+</div> -->
 
 <br>
 
