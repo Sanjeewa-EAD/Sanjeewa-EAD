@@ -43,7 +43,7 @@
 
 <!-- <div align="center">
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sanjeewa-EAD&label=Profile%20Views&color=10&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=dileep-edirisinghe&label=Profile%20Views&color=10&icon=0&pretty=true" />
   </a>
 </div> -->
 
@@ -51,15 +51,15 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjeewa-EAD&show_icons=true&theme=radical" />
+      <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=dileep-edirisinghe&show_icons=true&theme=radical" />
     </a>
     <br><br>
     <a href="https://git.io/streak-stats">
-      <img width=500 align="center" src="https://streak-stats.demolab.com/?user=Sanjeewa-EAD&theme=radical" />
+      <img width=500 align="center" src="https://streak-stats.demolab.com/?user=dileep-edirisinghe&theme=radical" />
     </a>
     <br><br>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjeewa-EAD&layout=compact&langs_count=8&card_width=300&theme=radical" />    
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileep-edirisinghe&layout=compact&langs_count=8&card_width=300&theme=radical" />    
     </a>
 </div>
 
